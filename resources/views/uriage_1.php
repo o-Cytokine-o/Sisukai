@@ -39,9 +39,113 @@
             </div>
             <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
                 <!---- コンテンツ ----->
-                
-            
-                
+                <div class="form-div">
+                    <h3 class="kikansitei">期間を指定する</h3>
+                    <form class="form-inline form-kikan">
+                        <input class="form-control" type="date"> &nbsp ~ &nbsp<input class="form-control" type="date">
+                        <button type="button" class="btn btn-primary">表示</button>
+                    </form>
+                </div>
+            <h3 class="table-name">売上状況一覧</h3>
+            <table class="table">
+                <thead class="thead-light">
+                    <tr>
+                    <th>商品名</th>
+                    <th>購入された回数</th>
+                    <th>累計金額</th>
+                    </tr>
+                </thead>
+                <!-- データの追加-->
+                <tbody>
+                    <!-- データの追加-->
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <!-- ここまで　-->
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                     </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                    <tr>
+                        <td>商品名１</td>
+                        <td>455</td>
+                        <td>700500</td>
+                    </tr>
+                </tbody>    
+            </table>     
                 <!---- コンテンツend ----->
                 </div>
         </div>
