@@ -35,9 +35,7 @@
                     <a href="/chuumon">注文管理</a><br>
                     <a href="/uriage">売上管理</a><br>
                     <a href="/hacchuu">発注管理</a><br>
-                </div>
-            </div>
-        </div>    
+                </div>  
     </div>
     <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
         <!---- コンテンツ ----->
@@ -47,6 +45,8 @@
         <h2><a href="">月別で売上状況を表示</a></h2>
         <h2><a href="">お客様ごとの売上状況を表示</a></h2>
         <!---- コンテンツend ----->
+    </div>
+    </div>
     </div>
 </body>
 </html>

@@ -20,13 +20,31 @@
         <h1 class="main-head-c">メニュー画面</h1>
         <div class="main-head-pr"></div>
     </div>
-    
-    <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
-        <!---- コンテンツ ----->
-        
-    
-        
-        <!---- コンテンツend ----->
-    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="side-menu col-xl-2 col-lg-2 col-md-3 col-sm-3 col-xs-3">
+                
+                <div class="menu-sub side">
+                    <a href="/menu"><button type="button" class="btn btn-primary btn-ex">メニュー画面へ</button></a>
+                    <a href="/kaiin">会員管理</a><br>
+                    <a href="/nyuuko">入庫先管理</a><br>
+                    <a href="/shouhin">商品管理</a><br>
+                    <a href="/zaiko">在庫管理</a><br>
+                    <a href="/nyuuko">入庫管理</a><br>
+                    <a href="/shukko">出庫管理</a><br>
+                    <a href="/chuumon">注文管理</a><br>
+                    <a href="/uriage">売上管理</a><br>
+                    <a href="/hacchuu">発注管理</a><br>
+                </div>
+            </div>
+            <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
+                <!---- コンテンツ ----->
+                
+            
+                
+                <!---- コンテンツend ----->
+                </div>
+        </div>
+        </div>
 </body>
 </html>
