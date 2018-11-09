@@ -39,7 +39,81 @@
             </div>
             <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
                 <!---- コンテンツ ----->
-                
+                <h1>発注</h1>
+    
+    <div>
+<table>
+    <span>商品番号</span>
+    <input type="text" placeholder=""/>
+    
+    <span>数量</span>
+    <input type="text" placeholder=""/>
+    
+    <span>発注価格</span>
+    <input type="text" placeholder=""/>
+    
+    <input type="button" value="追加"/>
+</table>
+    </div>
+    <div>
+<table>
+    <input type="text" placeholder="検索"/>
+    
+    <tr>
+      <td>商品名</td> 
+    </tr>
+    <tr> 
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    
+</table>
+        <input type="button" value="発注"/>
+    </div>
+    <div>
+<table>
+    <input type="text" placeholder="検索"/>
+    
+    <tr>
+      <td>商品名</td> 
+    </tr>
+    <tr> 
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    
+</table>
+    </div>
+    
+    <div>
+<table>
+    <input type="text" placeholder="検索"/>
+    
+    <tr>
+      <td>商品名</td> 
+    </tr>
+    <tr> 
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    \
+</table>
+    </div>
             
                 
                 <!---- コンテンツend ----->

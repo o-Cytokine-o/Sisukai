@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -39,78 +39,95 @@
             </div>
             <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
                 <!---- コンテンツ ----->
-                    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="main.css">
-    </head>
-    <body>
-        <h1>在庫画面</h1>
-<div class="main1">
-    <div class="text1">
-        <input id="sbox1" id="s" name="s" type="search" placeholder="" />
-        <input id="sbtn1" type="submit" value="検索" />
-        <p>
-            商品名 -----------------
-        </p>
+                <h1>在庫</h1>
+   
+    
+    <div>
+    <table>
+    <input type="text" placeholder="検索"/>
+    <tr>
+      <td>商品名</td> 
+    </tr>
+    <tr> 
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    <tr>
+      <td>商品名</td>
+    </tr>
+    </table>
     </div>
-    <div class="text2">
-        <h2>在庫情報一覧</h2>
+    
+    <div>
+    <table width="500">
+    <span>在庫情報一覧</span>
+    <tr>
+    　<th>商品名</th>
+    　<th>在庫数量</th>
+    　<th>安全在庫数量</th>
+    　<th>商品単価</th>
+    　<th>在庫残高</th>
+    </tr>
+    <tr align="center">
+     <td>商品名</td>
+     <td>数量</td>
+     <td>数量</td>
+     <td>単価</td>
+     <td>残高</td>    
+    </tr>
+    </table>
+    <input type="button" value="クリア"/>
+    </div>
+    
+    <div>
+    <table width="300">
+    <span>安全在庫数量以下の商品</span>
+    <tr>
+     <th>商品コード</th>
+     <th>商品名</th>
+     <th>在庫数量</th>
+    </tr>
+    <tr align="center">
+     <td>商品コード</td>
+     <td>商品名</td>
+     <td>数量</td>      
+    </tr>
+    <tr align="center">
+     <td>商品コード</td>
+     <td>商品名</td>
+     <td>数量</td>      
+    </tr>
+    <tr align="center">
+     <td>商品コード</td>
+     <td>商品名</td>
+     <td>数量</td>      
+    </tr>
+    <tr align="center">
+     <td>商品コード</td>
+     <td>商品名</td>
+     <td>数量</td>      
+    </tr>
+    <tr align="center">
+     <td>商品コード</td>
+     <td>商品名</td>
+     <td>数量</td>      
+    </tr>
+    <tr align="center">
+     <td>商品コード</td>
+     <td>商品名</td>
+     <td>数量</td>      
+    </tr>
         
-        <div class="text3">
-            <table border="1">
-            <tr>
-                <th class="a1">商品名</th>
-                <th class="b1">在庫数量</th>
-                <th class="c1">安全在庫数量</th>
-                <th class="d1">商品単価</th>
-                <th class="e1">在庫残高</th>
-            </tr>
-            <tr>
-                <td>モンハン</td>
-                <td>1</td>
-                <td>1</td>
-                <td>1</td>
-                <td>1</td>
-            </tr>
-            </table>
-        </div>
-
- <!--       
-        <ul class="text4">
-            <li>-----------------------------------------------------</li>
-        </ul>
--->
-        <button type="submit" class="button">クリア</button>
+        
+    </table>
+    
+    
+    
+    
+    
     </div>
-</div>
-<div class="main2">
-        <h3>安全在庫数量以下</h3>
-    <div class="text5">
-        <table border="1">
-            <tr>
-            <th class="a2">商品コード</th>
-            <th class="b2">商品名</th>
-            <th class="c2">在庫数量</th>
-            <th class="d2">安全在庫数量</th>
-            <th class="e2">商品単価</th>
-            <th class="f2">在庫残高</th>
-            </tr>
-            <tr>
-            <td>1</td>
-            <td>モンハン</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            </tr>
-        </table>
-        </div>
-<!--    
-        <ul class="text6">
-            <li>------------------------------------------------------------------</li>
-        </ul>
--->
-</div>
             
                 
                 <!---- コンテンツend ----->
