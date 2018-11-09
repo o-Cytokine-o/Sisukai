@@ -9,7 +9,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- BootstrapのJS読み込み -->
     <script src="/js/bootstrap.min.js"></script>
-    <title>Page Title</title>
+    <title>商品管理</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="/style.css" />
     <script src="/main.js"></script>
@@ -17,7 +17,7 @@
 <body>
     <div class="main-head ">
         <div class="main-head-p"></div>
-        <h1 class="main-head-c"></h1>
+        <h1 class="main-head-c">商品画面</h1>
         <div class="main-head-pr"></div>
     </div>
     <div class="container-fluid">
@@ -40,11 +40,29 @@
             <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
                 <!---- コンテンツ ----->
                 
+            <div>
+                <span id="slide-toggle1">登録</span>
+                <div id="triangle1"></div>
+                <div id="registration-content1">
+                    <span>商品名</span>
+                    <input type="text">
+                    <span>商品番号</span>
+                    <input type="text">
+                </div>
+            </div>
+            
+            <div>
+            <span id="slide-toggle2">更新</span>
+                <div class="triangle2"></div>
+                <div id="registration-content2">
+                    <span>商品名</span>
+                </div>
+            </div>    
             
                 
                 <!---- コンテンツend ----->
                 </div>
         </div>
-        </div>
+    </div>
 </body>
 </html>
