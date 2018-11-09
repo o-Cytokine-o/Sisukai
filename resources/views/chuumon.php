@@ -39,7 +39,61 @@
             </div>
             <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
                 <!---- コンテンツ ----->
-                
+                   <h1>注文管理画面</h1>
+      
+  <div class="test">
+      
+      <div class="test1">
+        <p> 会員番号　<input type="text" name="sampleText" value=""></p>
+      </div>
+      
+        <div class="test2">
+        <table border="1">
+   <tr>
+   <td><input type="text" name="sampleText" value="検索"></td>
+   </tr>
+    <tr>
+   <td>スマブラ</td>
+    </tr>
+    <tr>
+    <td> スマブラ</td>        
+    </tr>        
+    <tr>
+    <td>Fortnite</td>        
+    </tr>
+    </table>
+        </div>
+        
+        </div>
+    <div class="test3">
+        <p>注文状況一覧</p>
+        <table border="1">
+            <tr>
+            <th>商品名</th>
+            <th>数量</th>
+            <th> </th>
+            </tr>
+    <tr>
+    <td>スマブラ</td>
+    <td>10</td>
+    <td><input type="button"value="X"></td>
+    </tr>
+    <tr>
+    <td>スマブラ</td>
+    <td>10</td>
+    <td><input type="button"value="X"></td>
+    </tr>
+    <tr>
+    <td>fortnite</td>
+        <td>110</td>
+    <td><input type="button"value="X"></td>
+    </tr>
+    </table>
+        
+        
+        <button type="submit" class="button">決定</button>
+        </div>
+        
             
                 
                 <!---- コンテンツend ----->
