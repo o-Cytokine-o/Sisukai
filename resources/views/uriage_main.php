@@ -39,11 +39,11 @@
     </div>
     <div class="contents col-xl-10 col-lg-10 col-md-9 col-sm-9 col-xs-9 wrap">
         <!---- コンテンツ ----->
-        <h2><a href="">任意の期間の売上状況</a></h2>
-        <h2><a href="">日別で売上状況を表示</a></h2>
-        <h2><a href="">週別で売上状況を表示</a></h2>
-        <h2><a href="">月別で売上状況を表示</a></h2>
-        <h2><a href="">お客様ごとの売上状況を表示</a></h2>
+        <h2><a href="/uriage/1">任意の期間の売上状況</a></h2>
+        <h2><a href="/uriage/2">日別で売上状況を表示</a></h2>
+        <h2><a href="/uriage/3">週別で売上状況を表示</a></h2>
+        <h2><a href="/uriage/4">月別で売上状況を表示</a></h2>
+        <h2><a href="/uriage/5">お客様ごとの売上状況を表示</a></h2>
         <!---- コンテンツend ----->
     </div>
     </div>
